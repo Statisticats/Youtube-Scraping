@@ -24,7 +24,7 @@ Dalam repository ini, dilakukan scraping data Youtube dan eksplorasi data hasil 
   <li>Mendapatkan Youtube API</li>
   <li>Scraping Statistik dari Channel</li>
   <li>Scraping VideoID dari Channel</li>
-  <li>Scraping Scraping Video Details berdasarkan VideoID</li>
+  <li>Scraping Video Details berdasarkan VideoID</li>
 </ol>
 
 ## Youtube Data Exploration
